@@ -1,0 +1,90 @@
+.elementor-5265 .elementor-element.elementor-element-979069c:not(.elementor-motion-effects-element-type-background), .elementor-5265 .elementor-element.elementor-element-979069c > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FBFBFB;}.elementor-5265 .elementor-element.elementor-element-979069c{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-5265 .elementor-element.elementor-element-979069c > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-5265 .elementor-element.elementor-element-44205fe{font-family:"Roboto", Sans-serif;font-size:16px;font-weight:400;color:#666666;}.elementor-5265 .elementor-element.elementor-element-44205fe a{color:#666666;}.elementor-5265 .elementor-element.elementor-element-b20133d:not(.elementor-motion-effects-element-type-background), .elementor-5265 .elementor-element.elementor-element-b20133d > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFFFF;}.elementor-5265 .elementor-element.elementor-element-b20133d{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0px;margin-bottom:40px;padding:40px 0px 60px 0px;}.elementor-5265 .elementor-element.elementor-element-b20133d > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-5265 .elementor-element.elementor-element-f359684{text-align:center;}.elementor-5265 .elementor-element.elementor-element-f359684.elementor-widget-heading .elementor-heading-title{color:#000000;}.elementor-5265 .elementor-element.elementor-element-700048d > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-5265 .elementor-element.elementor-element-700048d > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-5265 .elementor-element.elementor-element-0b97336{margin-top:0px;margin-bottom:0px;}.elementor-5265 .elementor-element.elementor-element-6a0af0f.elementor-widget-heading .elementor-heading-title{color:#000000;}.elementor-5265 .elementor-element.elementor-element-4ec8406{color:#454545;font-family:"Open Sans", Sans-serif;font-size:15px;font-weight:300;line-height:1.4em;}.elementor-5265 .elementor-element.elementor-element-5112678{text-align:left;}.elementor-5265 .elementor-element.elementor-element-5112678 .elementor-social-icon{background-color:#FFFFFF;font-size:16px;padding:0.6em;}.elementor-5265 .elementor-element.elementor-element-5112678 .elementor-social-icon i{color:#999999;}.elementor-5265 .elementor-element.elementor-element-5112678 .elementor-social-icon svg{fill:#999999;}.elementor-5265 .elementor-element.elementor-element-5112678 .elementor-social-icon:not(:last-child){margin-right:10px;}.elementor-5265 .elementor-element.elementor-element-5112678 > .elementor-widget-container{margin:15px 0px 0px 60px;}/* Start custom CSS for breadcrumbs, class: .elementor-element-44205fe */.elementor-5265 .elementor-element.elementor-element-44205fe a{
+    font-weight: bold;
+}/* End custom CSS */
+/* Start custom CSS for shortcode, class: .elementor-element-e36e2d8 */.elementor-5265 .elementor-element.elementor-element-e36e2d8 img{
+    width: 100%;
+    margin-bottom: 15px;
+}/* End custom CSS */
+/* Start custom CSS for theme-post-content, class: .elementor-element-4ec8406 */@media screen and (max-width:1024px){
+    .elementor-5265 .elementor-element.elementor-element-4ec8406{
+        margin-top:-15px;
+    }
+}/* End custom CSS */
+/* Start custom CSS for shortcode, class: .elementor-element-1856b48 */.elementor-5265 .elementor-element.elementor-element-1856b48 span{
+    color: #333;
+    font-weight: 300;
+}
+
+.elementor-5265 .elementor-element.elementor-element-1856b48 strong{
+    color: #454545;
+}
+
+.elementor-5265 .elementor-element.elementor-element-1856b48 ul{
+    border-bottom: 1px solid #EBEBEB;
+    padding-bottom: 25px !important;
+}/* End custom CSS */
+/* Start custom CSS for social-icons, class: .elementor-element-5112678 */.elementor-5265 .elementor-element.elementor-element-5112678{
+    width: fit-content;
+}
+
+
+
+.elementor-5265 .elementor-element.elementor-element-5112678 .elementor-social-icons-wrapper{
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.elementor-5265 .elementor-element.elementor-element-5112678{
+    border-right: 1px solid #FFF;
+    padding-right: 20px;
+    margin-right: 20px;
+}
+
+@media screen and (max-width:1024px){
+    .elementor-5265 .elementor-element.elementor-element-5112678{
+        width: 100%;
+        padding-right:0;
+        margin-right:0;
+        border-right:none;
+    }
+}/* End custom CSS */
+/* Start custom CSS for section, class: .elementor-element-0b97336 */.elementor-sticky--effects {
+    margin-top: 35px !important;
+}/* End custom CSS */
+/* Start custom CSS for column, class: .elementor-element-700048d */.elementor-5265 .elementor-element.elementor-element-700048d .elementor-widget-wrap{
+    background: #FFF;
+}
+.single_move{
+    transition: 0.3s;
+}
+.elementor-5265 .elementor-element.elementor-element-700048d ul{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.elementor-5265 .elementor-element.elementor-element-700048d ul li{
+    font-size: 15px;
+    margin-bottom: 15px;
+    font-family: "Roboto", Sans-serif;
+}
+.elementor-5265 .elementor-element.elementor-element-700048d ul li:last-child{
+    margin-bottom: 0px;
+}
+
+.elementor-5265 .elementor-element.elementor-element-700048d .elementor-widget-social-icons:before{
+    content: "Share: ";
+    display: block;
+    position: absolute;
+    top: 10px;
+    font-family: "Roboto", Sans-serif;
+    font-weight: 500;
+}/* End custom CSS */
+/* Start custom CSS for section, class: .elementor-element-b20133d */@media screen and (max-width:1024px){
+    .elementor-5265 .elementor-element.elementor-element-b20133d{
+        margin:0px 0px;
+        margin-bottom:30px;
+        padding-top:10px;
+        padding-bottom:20px;
+    }
+}/* End custom CSS */

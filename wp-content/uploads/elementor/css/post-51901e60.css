@@ -1,0 +1,84 @@
+.elementor-5190 .elementor-element.elementor-element-97f408f{margin-top:60px;margin-bottom:40px;}.elementor-5190 .elementor-element.elementor-element-a748fd7.elementor-widget-heading .elementor-heading-title{color:#FFFFFF;}.elementor-5190 .elementor-element.elementor-element-a748fd7 .elementor-heading-title{font-family:"Roboto", Sans-serif;font-size:20px;}.elementor-5190 .elementor-element.elementor-element-0932d72 .elementor-nav-menu .elementor-item{font-family:"Roboto", Sans-serif;font-size:16px;font-weight:500;}.elementor-5190 .elementor-element.elementor-element-0932d72 .elementor-nav-menu--main .elementor-item{color:#FFFFFF;}.elementor-5190 .elementor-element.elementor-element-0932d72 > .elementor-widget-container{margin:-5px 0px 0px 0px;}.elementor-5190 .elementor-element.elementor-element-02ceb18.elementor-widget-heading .elementor-heading-title{color:#FFFFFF;}.elementor-5190 .elementor-element.elementor-element-02ceb18 .elementor-heading-title{font-family:"Roboto", Sans-serif;font-size:20px;}.elementor-5190 .elementor-element.elementor-element-a73b85c .elementor-nav-menu .elementor-item{font-family:"Roboto", Sans-serif;font-size:16px;font-weight:500;}.elementor-5190 .elementor-element.elementor-element-a73b85c .elementor-nav-menu--main .elementor-item{color:#FFFFFF;}.elementor-5190 .elementor-element.elementor-element-a73b85c > .elementor-widget-container{margin:-5px 0px 0px 0px;}.elementor-5190 .elementor-element.elementor-element-224fc73.elementor-widget-heading .elementor-heading-title{color:#FFFFFF;}.elementor-5190 .elementor-element.elementor-element-224fc73 .elementor-heading-title{font-family:"Roboto", Sans-serif;font-size:26px;}.elementor-5190 .elementor-element.elementor-element-224fc73 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-5190 .elementor-element.elementor-element-ac900f9 .elementor-posts-container .elementor-post__thumbnail{padding-bottom:calc( 1.2 * 100% );}.elementor-5190 .elementor-element.elementor-element-ac900f9:after{content:"1.2";position:absolute;color:transparent;}.elementor-5190 .elementor-element.elementor-element-ac900f9 .elementor-post__thumbnail__link{width:100%;}.elementor-5190 .elementor-element.elementor-element-ac900f9 .elementor-posts-container{grid-column-gap:30px;grid-row-gap:10px;}.elementor-msie .elementor-5190 .elementor-element.elementor-element-ac900f9 .elementor-post{padding-right:calc( 30px/2 );padding-left:calc( 30px/2 );padding-bottom:10px;}.elementor-msie .elementor-5190 .elementor-element.elementor-element-ac900f9 .elementor-posts-container{margin-left:calc( -30px/2 );margin-right:calc( -30px/2 );}.elementor-5190 .elementor-element.elementor-element-ac900f9.elementor-posts--thumbnail-left .elementor-post__thumbnail__link{margin-right:20px;}.elementor-5190 .elementor-element.elementor-element-ac900f9.elementor-posts--thumbnail-right .elementor-post__thumbnail__link{margin-left:20px;}.elementor-5190 .elementor-element.elementor-element-ac900f9.elementor-posts--thumbnail-top .elementor-post__thumbnail__link{margin-bottom:20px;}.elementor-5190 .elementor-element.elementor-element-ac900f9 .elementor-pagination{text-align:center;}body:not(.rtl) .elementor-5190 .elementor-element.elementor-element-ac900f9 .elementor-pagination .page-numbers:not(:first-child){margin-left:calc( 10px/2 );}body:not(.rtl) .elementor-5190 .elementor-element.elementor-element-ac900f9 .elementor-pagination .page-numbers:not(:last-child){margin-right:calc( 10px/2 );}body.rtl .elementor-5190 .elementor-element.elementor-element-ac900f9 .elementor-pagination .page-numbers:not(:first-child){margin-right:calc( 10px/2 );}body.rtl .elementor-5190 .elementor-element.elementor-element-ac900f9 .elementor-pagination .page-numbers:not(:last-child){margin-left:calc( 10px/2 );}.elementor-5190 .elementor-element.elementor-element-ac900f9 > .elementor-widget-container{margin:15px 0px 0px 0px;}@media(max-width:767px){.elementor-5190 .elementor-element.elementor-element-ac900f9 .elementor-posts-container .elementor-post__thumbnail{padding-bottom:calc( 0.5 * 100% );}.elementor-5190 .elementor-element.elementor-element-ac900f9:after{content:"0.5";position:absolute;color:transparent;}.elementor-5190 .elementor-element.elementor-element-ac900f9 .elementor-post__thumbnail__link{width:100%;}}@media(min-width:768px){.elementor-5190 .elementor-element.elementor-element-8013336{width:20%;}.elementor-5190 .elementor-element.elementor-element-82eef72{width:80%;}}/* Start custom CSS for nav-menu, class: .elementor-element-0932d72 */.elementor-5190 .elementor-element.elementor-element-0932d72 .elementor-item-active:before{
+    content: "";
+    display: block;
+    width: 6px;
+    height: 30px;
+    background: #FFF;
+    position: absolute;
+    left: 0px;
+    margin-top: -2px;
+}/* End custom CSS */
+/* Start custom CSS for nav-menu, class: .elementor-element-a73b85c */.elementor-5190 .elementor-element.elementor-element-a73b85c .elementor-item-active:before{
+    content: "";
+    display: block;
+    width: 6px;
+    height: 30px;
+    background: #FFF;
+    position: absolute;
+    left: 0px;
+    margin-top: -2px;
+}/* End custom CSS */
+/* Start custom CSS for theme-archive-title, class: .elementor-element-224fc73 */@media screen and (max-width:1024px){
+    .elementor-5190 .elementor-element.elementor-element-224fc73 h1{
+        text-align:center;
+    }
+    .elementor-5190 .elementor-element.elementor-element-224fc73{
+        margin-top: -40px;
+        padding-top: 30px;
+        margin-bottom:0px;
+    }
+}/* End custom CSS */
+/* Start custom CSS for archive-posts, class: .elementor-element-ac900f9 */.elementor-5190 .elementor-element.elementor-element-ac900f9 .elementor-posts-nothing-found{
+    color: red;
+}
+.elementor-5190 .elementor-element.elementor-element-ac900f9 .elementor-tabs-wrapper{
+    flex-wrap:wrap;
+}
+.elementor-5190 .elementor-element.elementor-element-ac900f9 .elementor-post__thumbnail {
+    padding: 0 !important;
+}
+.elementor-5190 .elementor-element.elementor-element-ac900f9 {
+    width: calc(100% + 30px) !important;
+    margin-left: -15px;
+}
+.elementor-5190 .elementor-element.elementor-element-ac900f9 img {
+    width: 100% !important;
+    height: auto !important;
+    position: relative !important;
+    top: inherit !important;
+    left: inherit !important;
+    transform: initial !important;
+}
+.elementor-5190 .elementor-element.elementor-element-ac900f9 article{
+    width: 33.33%;
+    padding: 15px;
+}
+.elementor-5190 .elementor-element.elementor-element-ac900f9 .elementor-post__thumbnail__link{
+    margin-bottom: 0px !important;
+}
+
+@media screen and (max-width:1024px){
+    .elementor-5190 .elementor-element.elementor-element-ac900f9 article{
+        width:50%;
+    }
+}/* End custom CSS */
+/* Start custom CSS for column, class: .elementor-element-82eef72 */.elementor-5190 .elementor-element.elementor-element-82eef72{
+    overflow: hidden;
+}/* End custom CSS */
+/* Start custom CSS for section, class: .elementor-element-97f408f */@media screen and (max-width:1024px){
+    .elementor-5190 .elementor-element.elementor-element-97f408f{
+        margin:30px 0px !important;
+    }
+     .elementor-5190 .elementor-element.elementor-element-97f408f .elementor-post__thumbnail {
+        padding: 0 !important;
+    }
+    .elementor-5190 .elementor-element.elementor-element-97f408f img {
+        position: relative !important;
+        top: inherit !important;
+        left: inherit !important;
+        transform: initial !important;
+    }
+    .elementor-5190 .elementor-element.elementor-element-97f408f{
+        overflow:visible;
+    }
+}/* End custom CSS */

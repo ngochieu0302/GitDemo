@@ -1,0 +1,63 @@
+.elementor-5086 .elementor-element.elementor-element-d58689e{margin-top:0px;margin-bottom:-5px;}/* Start custom CSS for section, class: .elementor-element-d58689e */.elementor-5086 .elementor-element.elementor-element-d58689e .filter_tranh{
+    width: 100%;
+    border: none;
+    padding: 15px;
+    margin-top: 20px;
+}/* End custom CSS */
+/* Start custom CSS for shortcode, class: .elementor-element-18d13e1 */.elementor-5086 .elementor-element.elementor-element-18d13e1 ul{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+.elementor-5086 .elementor-element.elementor-element-18d13e1 ul li{
+    color: #FFFFFF;
+    font-family: "Roboto", Sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    padding:10px 15px;
+    border:1px solid transparent;
+    cursor: pointer;
+}
+
+.elementor-5086 .elementor-element.elementor-element-18d13e1 ul li.active{
+    border:1px solid #FFF;
+}
+
+.elementor-5086 .elementor-element.elementor-element-18d13e1 .list img{
+    width: 100%;
+    height: auto;
+}
+
+.elementor-5086 .elementor-element.elementor-element-18d13e1 .list .item{
+    width: 33.33%;
+    padding: 10px;
+}
+
+.elementor-5086 .elementor-element.elementor-element-18d13e1 .list{
+    display: none;
+}
+
+.elementor-5086 .elementor-element.elementor-element-18d13e1 .list.active{
+    display: block;
+}
+
+
+@media screen and (max-width:991px){
+    .elementor-5086 .elementor-element.elementor-element-18d13e1 .list .item{
+        width:50%;
+    }
+    .elementor-5086 .elementor-element.elementor-element-18d13e1 ul{
+        flex-wrap:wrap;
+        margin-top:15px;
+        margin-bottom:5px;
+    }
+    .elementor-5086 .elementor-element.elementor-element-18d13e1 li{
+        padding:20px 15px;
+        margin-bottom:10px;
+    }
+}/* End custom CSS */

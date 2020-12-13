@@ -1,0 +1,53 @@
+.elementor-5101 .elementor-element.elementor-element-c7dd176{margin-top:0px;margin-bottom:30px;}.elementor-5101 .elementor-element.elementor-element-59887fe{text-align:left;}.elementor-5101 .elementor-element.elementor-element-59887fe .elementor-social-icon{background-color:#FFFFFF;font-size:20px;padding:0.6em;}.elementor-5101 .elementor-element.elementor-element-59887fe .elementor-social-icon i{color:#8DBFF0;}.elementor-5101 .elementor-element.elementor-element-59887fe .elementor-social-icon svg{fill:#8DBFF0;}.elementor-5101 .elementor-element.elementor-element-59887fe .elementor-social-icon:not(:last-child){margin-right:20px;}.elementor-5101 .elementor-element.elementor-element-0ace67d{color:#FFFFFF;font-family:"Roboto", Sans-serif;font-size:16px;}/* Start custom CSS for social-icons, class: .elementor-element-59887fe */.elementor-5101 .elementor-element.elementor-element-59887fe{
+    width: fit-content;
+}
+
+.elementor-5101 .elementor-element.elementor-element-59887fe .elementor-social-icons-wrapper{
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.elementor-5101 .elementor-element.elementor-element-59887fe{
+    border-right: 1px solid #FFF;
+    padding-right: 20px;
+    margin-right: 20px;
+}
+
+@media screen and (max-width:1024px){
+    .elementor-5101 .elementor-element.elementor-element-59887fe{
+        width: 100%;
+        padding-right:0;
+        margin-right:0;
+        border-right:none;
+    }
+    .elementor-5101 .elementor-element.elementor-element-59887fe .elementor-social-icons-wrapper{
+        justify-content:center;
+    }
+}/* End custom CSS */
+/* Start custom CSS for text-editor, class: .elementor-element-0ace67d */@media screen and (max-width:1024px){
+    .elementor-5101 .elementor-element.elementor-element-0ace67d{
+        margin-top:20px;
+    }
+    .elementor-5101 .elementor-element.elementor-element-0ace67d p{
+        text-align:center;
+    }
+}/* End custom CSS */
+/* Start custom CSS for section, class: .elementor-element-c7dd176 */body{
+    background: #8DBFF0;
+}
+
+.elementor-5101 .elementor-element.elementor-element-c7dd176 .elementor-widget-wrap{
+    display: flex;
+    flex-wrap:nowrap;
+    align-items: center;
+    align-content: center;
+}
+.elementor-5101 .elementor-element.elementor-element-c7dd176 .elementor-element{
+    margin-bottom: 0px !important;
+}
+
+@media screen and (max-width:1024px){
+    .elementor-5101 .elementor-element.elementor-element-c7dd176 .elementor-widget-wrap{
+        flex-wrap:wrap;
+    }
+}/* End custom CSS */
